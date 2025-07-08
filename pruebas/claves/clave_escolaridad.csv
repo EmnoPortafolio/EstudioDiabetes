@@ -1,0 +1,13 @@
+CVE,DESCRIP
+1,No schooling
+2,Preschool
+3,Incomplete primary
+4,Complete primary
+5,Incomplete secondary
+6,Complete secondary
+7,Incomplete high school
+8,Complete high school
+9,Professional
+10,Postgraduate
+88,Not applicable to children under 3 years
+99,Not specified

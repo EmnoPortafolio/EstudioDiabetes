@@ -1,0 +1,57 @@
+ocupacion,frecuencia,CVE,DESCRIP,ocupacion_peso
+11,14,11,"Funcionarios y altas autoridades de los sectores público, privado y social",0.000127170990480343
+12,12,12,"Directores y gerentes en servicios financieros, legales, administrativos y sociales",0.00010900370612600828
+13,7,13,"Directores y gerentes en producción, tecnología y transporte",6.35854952401715e-05
+14,20,14,"Directores y gerentes de ventas, restaurantes, hoteles y otros establecimientos",0.00018167284354334714
+15,13,15,"Coordinadores y jefes de área en servicios financieros, administrativos y sociales",0.00011808734830317564
+16,6,16,Coordinadores y jefes de área en producción y tecnología,5.450185306300414e-05
+17,5,17,"Coordinadores y jefes de área de ventas, restaurantes, hoteles y otros establecimientos",4.5418210885836786e-05
+19,176,19,"Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente",0.0015987210231814548
+21,882,21,"Profesionistas en ciencias económico-administrativas, ciencias sociales, humanistas y en artes",0.008011772400261609
+22,268,22,"Investigadores y profesionistas en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones",0.0024344161034808515
+23,962,23,Profesores y especialistas en docencia,0.008738463774434997
+24,291,24,"Médicos, enfermeras y otros especialistas en salud",0.002643339873555701
+25,149,25,"Auxiliares y técnicos en ciencias económico-administrativas, ciencias sociales, humanistas y en artes",0.0013534626843979363
+26,1080,26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones",0.009810333551340745
+27,39,27,"Auxiliares y técnicos en educación, instructores y capacitadores",0.00035426204490952693
+28,196,28,"Enfermeras, técnicos en medicina y trabajadores de apoyo en salud",0.001780393866724802
+29,204,29,Otros profesionistas y técnicos no clasificados anteriormente,0.001853063004142141
+31,328,31,"Supervisores de personal de apoyo administrativo, secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte",0.002979434634110893
+32,20,32,Supervisores y trabajadores que brindan y manejan información,0.00018167284354334714
+39,228,39,"Otros trabajadores auxiliares en actividades administrativas, no clasificados anteriormente",0.0020710704163941574
+41,6397,41,Comerciantes en establecimientos,0.058108059007339584
+42,201,42,Empleados de ventas en establecimientos,0.0018258120776106388
+43,2,43,Trabajadores en servicios de alquiler,1.8167284354334713e-05
+49,59,49,"Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente",0.000535934888452874
+51,279,51,"Trabajadores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería",0.002534336167429693
+52,112,52,Trabajadores en cuidados personales y del hogar,0.001017367923842744
+53,838,53,Trabajadores en servicios de protección y vigilancia,0.007612092144466245
+54,18,54,"Trabajadores de la Armada, Ejército y Fuerza Aérea",0.00016350555918901244
+61,9808,61,Trabajadores en actividades agrícolas y ganaderas,0.08909236247365744
+62,170,62,"Trabajadores en actividades pesqueras, forestales, caza y similares",0.0015442191701184507
+63,14,63,Operadores de maquinaria agropecuaria y forestal,0.000127170990480343
+69,7,69,"Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente",6.35854952401715e-05
+71,2360,71,Trabajadores en la extracción y la edificación de construcciones,0.021437395538114964
+72,642,72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal,0.005831698277741443
+73,833,73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel",0.007566673933580409
+74,28,74,"Artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas",0.000254341980960686
+75,347,75,"Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco",0.003152023835477073
+76,67,76,"Artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares",0.0006086040258702129
+79,1891,79,Otros trabajadores artesanales no clasificados anteriormente,0.017177167357023473
+81,111,81,Operadores de instalaciones y maquinaria industrial,0.0010082842816655766
+82,2,82,"Ensambladores y montadores de herramientas, maquinaria, productos metálicos y electrónicos",1.8167284354334713e-05
+83,2668,83,Conductores de transporte y de maquinaria móvil,0.02423515732868251
+89,161,89,"Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente",0.0014624663905239445
+91,13,91,"Trabajadores de apoyo en actividades agropecuarias, forestales, pesca y caza",0.00011808734830317564
+92,45,92,"Trabajadores de apoyo en la minería, construcción e industria",0.00040876389797253105
+93,14,93,"Ayudantes de conductores de transporte, conductores de transporte de tracción humana y animal y cargadores",0.000127170990480343
+94,13,94,Ayudantes en la preparación de alimentos,0.00011808734830317564
+95,66,95,Vendedores ambulantes,0.0005995203836930455
+96,410,96,"Trabajadores domésticos, de limpieza, planchadores y otros trabajadores de limpieza",0.0037242932926386165
+97,16,97,"Trabajadores de paquetería, de apoyo para espectáculos, mensajeros y repartidores de mercancías",0.0001453382748346777
+98,1471,98,"Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente",0.013362037642613182
+100,4,100,Busca trabajo,3.6334568708669426e-05
+110,67892,110,No trabaja,0.6167066346922462
+997,17,997,No aplica a menores de 5 años,0.00015442191701184506
+998,3704,998,Ocupaciones insuficientemente especificadas,0.03364581062422789
+999,4508,999,No especificada,0.04094905893467045

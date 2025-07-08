@@ -1,0 +1,54 @@
+causa_def,frecuencia,CVE,DESCRIP,causa_def_peso
+E100,43,E100,"Diabetes mellitus insulinodependiente, con coma",0.00039059661361819635
+E101,294,E101,"Diabetes mellitus insulinodependiente, con cetoacidosis",0.002670590800087203
+E102,701,E102,"Diabetes mellitus insulinodependiente, con complicaciones renales",0.006367633166194317
+E103,2,E103,"Diabetes mellitus insulinodependiente, con complicaciones oftálmicas",1.8167284354334713e-05
+E104,5,E104,"Diabetes mellitus insulinodependiente, con complicaciones neurológicas",4.5418210885836786e-05
+E105,55,E105,"Diabetes mellitus insulinodependiente, con complicaciones circulatorias periféricas",0.0004996003197442046
+E106,740,E106,"Diabetes mellitus insulinodependiente, con otras complicaciones especificadas",0.006721895211103844
+E107,975,E107,"Diabetes mellitus insulinodependiente, con complicaciones múltiples",0.008856551122738173
+E108,52,E108,"Diabetes mellitus insulinodependiente, con complicaciones no especificadas",0.0004723493932127026
+E109,245,E109,"Diabetes mellitus insulinodependiente, sin mención de complicación",0.0022254923334060024
+E110,1371,E110,"Diabetes mellitus no insulinodependiente, con coma",0.012453673424896446
+E111,5021,E111,"Diabetes mellitus no insulinodependiente, con cetoacidosis",0.0456089673715573
+E112,16464,E112,"Diabetes mellitus no insulinodependiente, con complicaciones renales",0.14955308480488336
+E113,6,E113,"Diabetes mellitus no insulinodependiente, con complicaciones oftálmicas",5.450185306300414e-05
+E114,50,E114,"Diabetes mellitus no insulinodependiente, con complicaciones neurológicas",0.00045418210885836787
+E115,761,E115,"Diabetes mellitus no insulinodependiente, con complicaciones circulatorias periféricas",0.006912651696824358
+E116,34229,E116,"Diabetes mellitus no insulinodependiente, con otras complicaciones especificadas",0.31092398808226146
+E117,18392,E117,"Diabetes mellitus no insulinodependiente, con complicaciones múltiples",0.16706634692246203
+E118,103,E118,"Diabetes mellitus no insulinodependiente, con complicaciones no especificadas",0.0009356151442482378
+E119,7132,E119,"Diabetes mellitus no insulinodependiente, sin mención de complicación",0.0647845360075576
+E120,9,E120,"Diabetes mellitus asociada con desnutrición, con coma",8.175277959450622e-05
+E121,15,E121,"Diabetes mellitus asociada con desnutrición, con cetoacidosis",0.00013625463265751035
+E122,44,E122,"Diabetes mellitus asociada con desnutrición, con complicaciones renales",0.0003996802557953637
+E124,1,E124,"Diabetes mellitus asociada con desnutrición, con complicaciones neurológicas",9.083642177167357e-06
+E125,6,E125,"Diabetes mellitus asociada con desnutrición, con complicaciones circulatorias periféricas",5.450185306300414e-05
+E126,64,E126,"Diabetes mellitus asociada con desnutrición, con otras complicaciones especificadas",0.0005813530993387108
+E127,38,E127,"Diabetes mellitus asociada con desnutrición, con complicaciones múltiples",0.0003451784027323596
+E128,1,E128,"Diabetes mellitus asociada con desnutrición, con complicaciones no especificadas",9.083642177167357e-06
+E129,56,E129,"Diabetes mellitus asociada con desnutrición, sin mención de complicación",0.000508683961921372
+E130,1,E130,"Otras diabetes mellitus especificadas, con coma",9.083642177167357e-06
+E131,1,E131,"Otras Diabetes mellitus especificadas, con cetoacidosis",9.083642177167357e-06
+E132,7,E132,"Otras diabetes mellitus especificadas, con complicaciones renales",6.35854952401715e-05
+E136,15,E136,"Otras diabetes mellitus especificadas, con otras complicaciones especificadas",0.00013625463265751035
+E137,11,E137,"Otras diabetes mellitus especificadas, con complicaciones múltiples",9.992006394884092e-05
+E139,6,E139,"Otras diabetes mellitus especificadas, sin mención de complicación",5.450185306300414e-05
+E140,396,E140,"Diabetes mellitus no especificada, con coma",0.0035971223021582736
+E141,1507,E141,"Diabetes mellitus no especificada, con cetoacidosis",0.013689048760991206
+E142,4222,E142,"Diabetes mellitus no especificada, con complicaciones renales",0.03835113727200058
+E143,2,E143,"Diabetes mellitus no especificada, con complicaciones oftálmicas",1.8167284354334713e-05
+E144,25,E144,"Diabetes mellitus no especificada, con complicaciones neurológicas",0.00022709105442918394
+E145,287,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",0.0026070053048470316
+E146,9456,E146,"Diabetes mellitus no especificada, con otras complicaciones especificadas",0.08589492042729453
+E147,4394,E147,"Diabetes mellitus no especificada, con complicaciones múltiples",0.03991352372647337
+E148,40,E148,"Diabetes mellitus no especificada, con complicaciones no especificadas",0.0003633456870866943
+E149,2814,E149,"Diabetes mellitus no especificada, sin mención de complicación",0.025561369086548942
+E232,13,E232,Diabetes insípida,0.00011808734830317564
+N251,1,N251,Diabetes insípida nefrógena,9.083642177167357e-06
+O240,3,O240,"Diabetes mellitus preexistente insulinodependiente, en el embarazo",2.725092653150207e-05
+O241,3,O241,"Diabetes mellitus preexistente no insulinodependiente, en el embarazo",2.725092653150207e-05
+O242,1,O242,"Diabetes mellitus preexistente relacionada con desnutrición, en el embarazo",9.083642177167357e-06
+O244,1,O244,Diabetes mellitus que se origina con el embarazo,9.083642177167357e-06
+O249,1,O249,"Diabetes mellitus no especificada, en el embarazo",9.083642177167357e-06
+P700,6,P700,Síndrome del recién nacido de madre con diabetes gestacional,5.450185306300414e-05

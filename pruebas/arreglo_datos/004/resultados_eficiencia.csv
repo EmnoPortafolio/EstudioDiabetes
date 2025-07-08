@@ -1,0 +1,5 @@
+Metric,Value,Acceptable Range
+Accuracy,0.9997958141909137,0.7-1.0
+Precision,0.92,0.7-1.0
+Recall,1.00,0.7-1.0
+F1-Score,0.96,0.7-1.0
